@@ -1,0 +1,10 @@
+xrootd 27033     /store/mc/RunIISpring15MiniAODv2/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/10000/3A2285C7-CA6D-E511-B68F-0CC47A13D09C.root
+xrootd 49338     /store/mc/RunIISpring15MiniAODv2/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/10000/82196D81-CB6D-E511-9C59-0CC47A13D2BE.root
+xrootd 41624     /store/mc/RunIISpring15MiniAODv2/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/10000/AC8AA3D3-CA6D-E511-81F2-002590E39D90.root
+xrootd 46592     /store/mc/RunIISpring15MiniAODv2/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/10000/E23816C8-CA6D-E511-97A4-002590E2F664.root
+xrootd 47336     /store/mc/RunIISpring15MiniAODv2/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/40000/34A1F0E2-CA6D-E511-8E3E-0025905C2C84.root
+xrootd 11960     /store/mc/RunIISpring15MiniAODv2/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/40000/3C7038E2-CA6D-E511-8553-0025905C3DCE.root
+xrootd 29025     /store/mc/RunIISpring15MiniAODv2/TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/50000/6CD88A88-CB6D-E511-919E-0025904C540E.root
+nEventsTotal: 252908    
+stat events available locally: 0% 0/252908
+stat files available locally: 0% 0/7

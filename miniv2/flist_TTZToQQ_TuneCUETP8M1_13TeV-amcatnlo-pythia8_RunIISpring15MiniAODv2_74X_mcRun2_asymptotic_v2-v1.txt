@@ -1,0 +1,20 @@
+xrootd 49042     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/0C34C895-CB6D-E511-A27F-008CFA197CA4.root
+xrootd 43800     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/2EF76AD1-CB6D-E511-B368-008CFA197990.root
+xrootd 46421     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/3C55E42E-CA6D-E511-90AE-008CFA1979EC.root
+xrootd 46400     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/503D00CB-CA6D-E511-944F-008CFA197A80.root
+xrootd 43800     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/7C43A165-CB6D-E511-B923-00266CFFA240.root
+xrootd 47442     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/80EE8C2B-CA6D-E511-8136-008CFA19743C.root
+xrootd 44968     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/82799792-CB6D-E511-9C92-008CFA111148.root
+xrootd 41305     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/829E7ADA-CB6D-E511-9022-008CFA197D14.root
+xrootd 49463     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/86120E98-CB6D-E511-B552-008CFA010E1C.root
+xrootd 48000     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/8A2977DC-CB6D-E511-8C46-008CFA165F48.root
+xrootd 42800     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/8EDFD99C-CB6D-E511-B195-008CFA110C94.root
+xrootd 43263     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/98B38ACD-CA6D-E511-9B0B-008CFA197948.root
+xrootd 47442     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/98D9BBDE-CB6D-E511-A920-008CFA165F48.root
+xrootd 44821     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/A663CA60-CB6D-E511-A2CA-008CFA010718.root
+xrootd 44033     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/BA0C1F9A-CB6D-E511-BCCC-008CFA166188.root
+xrootd 45600     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/D67FFA93-CB6D-E511-ABA2-008CFA1661B4.root
+xrootd 21200     /store/mc/RunIISpring15MiniAODv2/TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/MINIAODSIM/74X_mcRun2_asymptotic_v2-v1/60000/F0B2DE94-CB6D-E511-8B64-008CFA197CF0.root
+nEventsTotal: 749800    
+stat events available locally: 0% 0/749800
+stat files available locally: 0% 0/17
