@@ -188,6 +188,16 @@ local  96367     /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/258/7
 local  5533      /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/258/750/00000/96CB0D75-8F72-E511-B5DC-02163E01457E.root 258750
 local  94531     /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/258/750/00000/C6F0CA80-8F72-E511-8D69-02163E014650.root 258750
 local  14        /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/258/959/00000/38F6FCF7-6D73-E511-8940-02163E0145A7.root 258959
-nEventsTotal: 15855196  
-stat events available locally: 100% 15855196/15855196
-stat files available locally: 100% 190/190
+local  7         /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/457/00000/98092AA9-9077-E511-A16E-02163E01473F.root 259457
+local  66        /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/458/00000/EC13A9DA-7277-E511-816F-02163E01190D.root 259458
+local  337       /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/464/00000/24742CB6-A877-E511-82EC-02163E0134F2.root 259464
+local  1         /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/575/00000/5498B0B2-1978-E511-973A-02163E014753.root 259575
+local  97605     /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/637/00000/229D5CFF-FC78-E511-A451-02163E0144D8.root 259637
+local  96363     /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/637/00000/6EC010FA-FC78-E511-86FC-02163E01395A.root 259637
+local  97110     /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/637/00000/82E6B0F7-FC78-E511-9240-02163E014614.root 259637
+local  30639     /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/637/00000/869C912F-FD78-E511-83BA-02163E0146E9.root 259637
+local  26717     /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/681/00000/CCA80CD3-5479-E511-B8F6-02163E014705.root 259681
+local  2680      /store/data/Run2015D/DoubleMuon/MINIAOD/PromptReco-v4/000/259/682/00000/642D04B1-3F79-E511-9F51-02163E0119BB.root 259682
+nEventsTotal: 16206721  
+stat events available locally: 100% 16206721/16206721
+stat files available locally: 100% 200/200
