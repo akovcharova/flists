@@ -86,6 +86,7 @@ local  6         /store/data/Run2015D/MET/MINIAOD/PromptReco-v4/000/259/478/0000
 local  89066     /store/data/Run2015D/MET/MINIAOD/PromptReco-v4/000/259/637/00000/D84890A2-F678-E511-A3FF-02163E0142B0.root 259637
 local  22697     /store/data/Run2015D/MET/MINIAOD/PromptReco-v4/000/259/681/00000/94E70CFB-5779-E511-910B-02163E013391.root 259681
 local  1301      /store/data/Run2015D/MET/MINIAOD/PromptReco-v4/000/259/682/00000/A48B0919-3979-E511-82B7-02163E01434A.root 259682
-nEventsTotal: 5112865   
-stat events available locally: 100% 5112865/5112865
-stat files available locally: 100% 88/88
+local  -1        /store/data/Run2015D/MET/MINIAOD/PromptReco-v4/000/259/714/00000/4AA3B37F-E779-E511-9DFF-02163E01454F.root 259714
+nEventsTotal: 5112864   
+stat events available locally: 100% 5112864/5112864
+stat files available locally: 100% 89/89
