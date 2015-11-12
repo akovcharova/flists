@@ -1,0 +1,8 @@
+xrootd 13502     /store/mc/RunIISpring15FSPremix/SMS-T1tttt_mGluino-1175_mLSP-950_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/MINIAODSIM/MCRUN2_74_V9-v1/10000/102D7D29-777C-E511-833A-00259059391E.root
+xrootd 4437      /store/mc/RunIISpring15FSPremix/SMS-T1tttt_mGluino-1175_mLSP-950_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/MINIAODSIM/MCRUN2_74_V9-v1/10000/4A9A2359-0D7D-E511-A0A6-02163E013B44.root
+xrootd 44897     /store/mc/RunIISpring15FSPremix/SMS-T1tttt_mGluino-1175_mLSP-950_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/MINIAODSIM/MCRUN2_74_V9-v1/10000/506A54EF-7A7C-E511-9C6A-0025905A60F2.root
+xrootd 34091     /store/mc/RunIISpring15FSPremix/SMS-T1tttt_mGluino-1175_mLSP-950_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/MINIAODSIM/MCRUN2_74_V9-v1/10000/963548F3-807C-E511-B6DE-0025905B8610.root
+xrootd 49460     /store/mc/RunIISpring15FSPremix/SMS-T1tttt_mGluino-1175_mLSP-950_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/MINIAODSIM/MCRUN2_74_V9-v1/10000/BA354027-777C-E511-8936-0025905A6084.root
+nEventsTotal: 146387    
+stat events available locally: 0% 0/146387
+stat files available locally: 0% 0/5
